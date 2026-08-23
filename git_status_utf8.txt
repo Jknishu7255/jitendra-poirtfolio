@@ -1,0 +1,110 @@
+﻿On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .gitignore
+	new file:   LICENSE
+	new file:   build-errors.txt
+	new file:   errors.txt
+	new file:   eslint.config.js
+	new file:   index.html
+	new file:   package-lock.json
+	new file:   package.json
+	new file:   public/draco/draco_decoder.js
+	new file:   public/draco/draco_decoder.wasm
+	new file:   public/images/Maxlife.png
+	new file:   public/images/Solidx.png
+	new file:   public/images/bond.png
+	new file:   public/images/express.webp
+	new file:   public/images/javascript.webp
+	new file:   public/images/mongo.webp
+	new file:   public/images/mysql.webp
+	new file:   public/images/next.webp
+	new file:   public/images/next1.webp
+	new file:   public/images/next2.webp
+	new file:   public/images/nextBL.webp
+	new file:   public/images/node.webp
+	new file:   public/images/node2.webp
+	new file:   public/images/placeholder.webp
+	new file:   public/images/preview.png
+	new file:   public/images/radix.png
+	new file:   public/images/react.webp
+	new file:   public/images/react2.webp
+	new file:   public/images/sapphire.png
+	new file:   public/images/typescript.webp
+	new file:   public/models/.gitattributes
+	new file:   public/models/char_enviorment.hdr
+	new file:   public/models/character.enc
+	new file:   public/models/encrypt.cjs
+	new file:   rajesh-portfolio
+	new file:   src/App.css
+	new file:   src/App.tsx
+	new file:   src/assets/react.svg
+	new file:   src/components/About.tsx
+	new file:   src/components/Career.tsx
+	new file:   src/components/Character/Scene.tsx
+	new file:   src/components/Character/exports.ts
+	new file:   src/components/Character/index.tsx
+	new file:   src/components/Character/utils/animationUtils.ts
+	new file:   src/components/Character/utils/character.ts
+	new file:   src/components/Character/utils/decrypt.ts
+	new file:   src/components/Character/utils/lighting.ts
+	new file:   src/components/Character/utils/mouseUtils.ts
+	new file:   src/components/Character/utils/resizeUtils.ts
+	new file:   src/components/Contact.tsx
+	new file:   src/components/Cursor.tsx
+	new file:   src/components/HoverLinks.tsx
+	new file:   src/components/Landing.tsx
+	new file:   src/components/Loading.tsx
+	new file:   src/components/MainContainer.tsx
+	new file:   src/components/Navbar.tsx
+	new file:   src/components/SocialIcons.tsx
+	new file:   src/components/TechStack.tsx
+	new file:   src/components/WhatIDo.tsx
+	new file:   src/components/Work.tsx
+	new file:   src/components/WorkImage.tsx
+	new file:   src/components/styles/About.css
+	new file:   src/components/styles/Career.css
+	new file:   src/components/styles/Contact.css
+	new file:   src/components/styles/Cursor.css
+	new file:   src/components/styles/Landing.css
+	new file:   src/components/styles/Loading.css
+	new file:   src/components/styles/Navbar.css
+	new file:   src/components/styles/SocialIcons.css
+	new file:   src/components/styles/WhatIDo.css
+	new file:   src/components/styles/Work.css
+	new file:   src/components/styles/style.css
+	new file:   src/components/utils/GsapScroll.ts
+	new file:   src/components/utils/initialFX.ts
+	new file:   src/components/utils/splitText.ts
+	new file:   src/context/LoadingProvider.tsx
+	new file:   src/data/boneData.ts
+	new file:   src/index.css
+	new file:   src/main.tsx
+	new file:   src/vite-env.d.ts
+	new file:   test.js
+	new file:   tsconfig.app.json
+	new file:   tsconfig.app.tsbuildinfo
+	new file:   tsconfig.json
+	new file:   tsconfig.node.json
+	new file:   tsconfig.node.tsbuildinfo
+	new file:   vite.config.ts
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+	modified:   build-errors.txt
+	modified:   src/components/utils/initialFX.ts
+	modified:   src/components/utils/splitText.ts
+	modified:   tsconfig.app.tsbuildinfo
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_log.txt
+	git_status.txt
+	git_status_utf8.txt
+	src/components/Work jitendra.tsx
+
